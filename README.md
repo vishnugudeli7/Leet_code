@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/vishnugudeli7/Leet_code/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/vishnugudeli7/Leet_code/tree/master/0176-second-highest-salary) |
+## Array
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/vishnugudeli7/Leet_code/tree/master/2574-left-and-right-sum-differences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/vishnugudeli7/Leet_code/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
