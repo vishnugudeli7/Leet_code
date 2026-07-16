@@ -8,3 +8,5 @@ class Solution:
             l.append(abs(left-right))
             right -=i
         return l
+
+    
