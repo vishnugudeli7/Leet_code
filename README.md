@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vishnugudeli7/Leet_code/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/vishnugudeli7/Leet_code/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishnugudeli7/Leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vishnugudeli7/Leet_code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vishnugudeli7/Leet_code/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/vishnugudeli7/Leet_code/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/vishnugudeli7/Leet_code/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/vishnugudeli7/Leet_code/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vishnugudeli7/Leet_code/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/vishnugudeli7/Leet_code/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vishnugudeli7/Leet_code/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/vishnugudeli7/Leet_code/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -68,4 +72,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vishnugudeli7/Leet_code/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/vishnugudeli7/Leet_code/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vishnugudeli7/Leet_code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
